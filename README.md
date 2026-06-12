@@ -8,8 +8,8 @@
 
 <br><br>
 
-<a href="#">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-Coming_Soon-success?style=for-the-badge" />
+<a href="https://task-management-dashboard-v2.web.app" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-Click_Here-success?style=for-the-badge" />
 </a>
 
 <img src="https://img.shields.io/badge/Version-2.0.0-blueviolet?style=for-the-badge"/>
@@ -128,11 +128,11 @@ Task Dashboard V1 was the foundation of this project, focused on delivering a cl
 
 <p align="center">
 
-<a href="YOUR_V1_LIVE_LINK">
+<a href="[LIVE_LINK](https://task-management-dashboard-ochre.vercel.app/)">
 <img src="https://img.shields.io/badge/🌐_Live_Demo_V1-Visit-success?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_V1_GITHUB_REPO">
+<a href="https://github.com/ayushtripathi-45/Task_Management_Dashboard">
 <img src="https://img.shields.io/badge/📂_Source_Code_V1-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -398,12 +398,8 @@ B.Tech Computer Science Engineering Student
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://my-portfolio-basic-version.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
